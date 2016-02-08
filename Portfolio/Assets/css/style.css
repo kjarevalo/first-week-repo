@@ -1,0 +1,110 @@
+* Body
+{
+	text-align:center;
+	margin-top: 20px;
+}
+
+#content_section
+{
+	background-image: Assets/images/arab_tile.png;
+	margin: 0 auto;
+	width: 960px;
+	height:500px;
+	padding-top: 15px;
+}
+
+header
+{
+	overflow: hidden;
+	margin: 0 auto;
+	width:960px;
+	background-color: #ffffff;
+	border-color: #cccccc;
+	display: inline-block;
+}
+
+#name
+{
+	height: 40px;
+	width: 200px;
+	line-height: 40px;
+	background-color: #4aaaa5;
+	color: white;
+	font-family: ariel;
+	font-weight: bold;
+	font-size: 25px;
+	margin-left: 200px;
+	padding: 10px;
+	text-align: center;
+}
+
+#links
+{
+	float: right;
+}
+
+#links a
+{
+	height: 40px;
+	width: 80px;
+	background-color: #ffffff;
+	color: #777777;
+	font-family: #cccccc;
+	font-size: 15px;
+}
+
+
+#about_me
+{
+	text-align: left;
+	width: 450px;
+	margin-left: 50px;
+	display: inline-block;
+}
+
+h2
+{
+	height: 40px;
+	width: 200px;
+	background-color: #ffffff;
+	color: #4aaaa5;
+	font-weight: bold;
+	font-size: 25px;
+	text-align: left;
+}
+
+
+#connect_with_me
+{
+	float:	right;
+	margin-right: 50px;
+
+}
+
+#connect_with_me img
+{
+	height: 50px;
+	width: 50px;
+}
+
+h3
+{
+	height: 40px;
+	width: 200px;
+	background-color: #ffffff;
+	color: #4aaaa5;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: left;
+}
+
+footer
+{
+	height: 50px;
+	width: 650px;
+	background-color: #666666;
+	color: white;
+	text-align: center;
+	padding-top: 30px;
+	margin: 0 auto;
+}
